@@ -1,0 +1,74 @@
+
+.navbar {
+
+    font-family: 'Linden Hill';
+
+}
+
+.nav-link {
+
+    color: #DCDCDC;
+}
+
+.navbar-brand {
+    color: #DCDCDC;
+
+}
+header { 
+
+    background: url(https://i.pinimg.com/originals/ac/c5/5a/acc55a94302e1069d80ec0acc7e5c5e4.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+    
+    font-family: 'Great Vibes';
+
+  }
+  
+
+h1 {
+
+    font-size: 116px;
+    color: #DCDCDC;
+
+        text-align: center;
+        
+        padding-top: 200px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+        padding-left: 50px;
+}
+
+
+
+
+    
+
+.container-fluid {
+padding: 28px;
+font-family:  'Linden Hill';
+
+ }
+
+
+#bloc-1 {
+    
+   margin-bottom: 28px;
+   margin-top: 28px;
+   background-color: #e0e0e0;
+   font-family: 'Great Vibes';
+   font-size: 44px;
+}
+
+h2 {
+
+
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Lindel Hill'
+}
+
+

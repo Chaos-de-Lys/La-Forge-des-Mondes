@@ -1,0 +1,146 @@
+
+.navbar {
+
+    font-family: 'Linden Hill';
+    font-size: 20px;
+
+}
+
+.nav-link {
+
+    color: #DCDCDC;
+}
+
+.navbar-brand {
+    color: #DCDCDC;
+
+}
+header { 
+
+    background: url(https://i.pinimg.com/originals/93/bb/b7/93bbb7d0489523a25f66a6ab01c888d9.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+    height: 600px;
+    margin: 0;
+    font-family: 'Great Vibes';
+    
+
+  }
+  
+
+h1 {
+
+    font-size: 116px;
+    color: #DCDCDC;
+
+        text-align: center;
+        
+        padding-top: 200px;
+        padding-bottom: 50px;
+        padding-right: 50px;
+        padding-left: 50px;
+}
+
+
+
+
+    
+
+.container-fluid {
+padding: 28px;
+text-align: center;
+font-family:  'Great Vibes';
+font-size: 32px;
+margin: 0px;
+
+ }
+
+
+#bloc-1 {
+    
+   margin-bottom: 28px;
+   margin-top: 28px;
+   background-color: #e0e0e0;
+   font-family: 'Great Vibes';
+   font-size: 44px;
+   margin: 0px;
+}
+
+h2 {
+
+
+    text-align: left;
+    font-size: 22px;
+    font-family: 'Lindel Hill'
+
+}
+
+h3 {
+    margin-bottom: 28px;
+    margin-top: 28px;
+    padding: 28px;
+    background-color: grey;
+    font-family: 'Great Vibes';
+    font-size: 44px;
+    margin: 0px;
+    text-align: left;
+
+}
+
+
+#boutons-wiki {
+
+    font-size: 32px;
+    margin: 12px;
+    margin-bottom: 22px;
+    padding: 22px;
+    padding-bottom: 22px;
+    font-display: 12px;
+    
+
+}
+
+#texte-presentation-madnen {
+
+    text-align: center;
+}
+
+.block {
+    display: block, center;
+    width: 700px;
+    border: none;
+    
+    cursor: pointer;
+    text-align: center;
+
+    font-size: 32px;
+    margin: 12px;
+    margin-bottom: 22px;
+    padding: 22px;
+    padding-bottom: 22px;
+    font-display: 12px;
+  }
+
+#bloc-contacts {
+
+    margin-bottom: 28px;
+    margin-top: 28px;
+    padding-bottom: 28px;
+    margin: 0px;
+   
+
+    background-color: grey;
+    font-size: 22px;
+    font-family: 'Lindel Hill';
+}
+
+
+
+
+
+
+
+
